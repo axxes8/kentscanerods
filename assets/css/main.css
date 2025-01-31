@@ -1566,7 +1566,7 @@ input, select, textarea {
 		.image.featured img {
 			margin: 1rem;
 			height: 30%;
-			width: 30%;
+			width: 30%;             
 		}
 
 		.image.fit {
@@ -2191,7 +2191,7 @@ input, select, textarea {
 	#header {
 		position: relative;
 		margin: 0;
-		background-image: url("images/overlay.png"), url("../../images/salt_river.jpg");
+		background-image: url("images/overlay.png"), url("../../images/resized/salt_river.jpg");
 		background-size: auto, cover;
 		background-position: top left, center center;
 		background-repeat: repeat, no-repeat;
